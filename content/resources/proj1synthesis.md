@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: proj1synthesis.pdf
-type: OCWFile
 uid: 2b924636-b404-805f-69f3-a5b9d89f5fb1
 ---

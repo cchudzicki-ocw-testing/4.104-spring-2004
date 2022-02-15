@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: proj1analysis.pdf
-type: OCWFile
 uid: 55847dcb-9a68-c402-f3d0-f2f9525f8c39
 ---

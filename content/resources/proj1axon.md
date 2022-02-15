@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: proj1axon.pdf
-type: OCWFile
 uid: de590059-af50-aaaf-786e-9690d2f2bda9
 ---

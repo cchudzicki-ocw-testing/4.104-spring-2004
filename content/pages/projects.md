@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a compilation of student work from the semester,
+  showing work from all the assignments.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
